@@ -11,7 +11,7 @@ La entrada de datos vendrá de la mano de muchas funciones, tales como  *scanf* 
 
 ## getchar ()
 
-En C la función getchar es una función de la biblioteca estándar  stdio.h (vieja amiga) que toma un únicl caracter de tipo unsigned char  de la entrada estándar, puede ser vía teclado o vía lectura de otro archivo y devuelve un integer.
+En C la función getchar es una función de la biblioteca estándar  stdio.h (vieja amiga) que toma un único caracter de tipo unsigned char  de la entrada estándar, puede ser vía teclado o vía lectura de otro archivo y devuelve un integer.
 
 ### ¿Cómo lo usamos?
 
