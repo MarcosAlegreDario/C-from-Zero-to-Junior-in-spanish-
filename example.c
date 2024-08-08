@@ -3,7 +3,7 @@
   
 double raiz(float a, float b);       /*declaro la function raiz*/
 double valor_absoluto(float a, float b); /*declaro la function valor_absoluto*/
-main()  
+int main()  
    {  
        
        float a, b;  
